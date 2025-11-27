@@ -34,5 +34,4 @@ def detect_object(image_path: str) -> str:
     return text
 
 # 调用示例
-path = "/Users/yxr/Desktop/AI7102/YOLOpractice/CODAdatasets/CODA/out_sample/000001_1616005007200/crops/000001_1616005007200_000.jpg"
-print(detect_object(path))
+

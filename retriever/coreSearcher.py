@@ -86,6 +86,11 @@ def load_retrieval(index_dir: str):
 
     index = faiss.read_index(idx_path)
     mapping = load_mapping(map_path)
+    known_names = set()
+    for m in mapping:
+        name = m.get("class_name")
+        if name is not None:
+            known_names.add(name.strip().lower())
 
     ctx = {
         "device": device,
@@ -93,6 +98,7 @@ def load_retrieval(index_dir: str):
         "transform": transform,
         "index": index,
         "mapping": mapping,
+        "known_names": known_names,
     }
     return ctx
 
@@ -128,7 +134,7 @@ def classify_crop(crop_path: str, ctx, topk: int = 5, thresh: float = 0.80):
     transform = ctx["transform"]
     index = ctx["index"]
     mapping = ctx["mapping"]
-
+    known_names = ctx["known_names"]
     # 1) 嵌入
     q = embed_image(crop_path, model, device, transform)  # [1, 2048]
 
@@ -138,22 +144,46 @@ def classify_crop(crop_path: str, ctx, topk: int = 5, thresh: float = 0.80):
 
     # 有效 (score, idx)
     valid = [(float(s), int(i)) for s, i in zip(sims, ids) if 0 <= int(i) < len(mapping)]
+    is_unknown = False
+    top1_score = None
+    purity = None
     if not valid:
         # 索引没返回有效结果，直接问 Qwen
-        qwen_word = detect_object(crop_path)
+        try:
+            qwen_word = detect_object(crop_path)
+        except Exception as e:
+            qwen_word = f"Qwen_error:{e}"
+        used_qwen = True
+        final_class = qwen_word
+        final_cid = None
+        if qwen_word is not None and not str(qwen_word).startswith("Qwen_error"):
+            qkey = qwen_word.strip().lower()
+            if qkey in known_names:
+                # Qwen 说的是已知类别
+                for m in mapping:
+                    name = m.get("class_name")
+                    if name and name.strip().lower() == qkey:
+                        final_cid = m["cid"]
+                        is_unknown = False
+                        break
+            else:
+                # Qwen 说的是未知类 → 99
+                final_cid = 99
+                is_unknown = True
+
         return {
-            "final_class": None,
-            "final_cid": None,
+            "final_class": final_class,
+            "final_cid": final_cid,
             "top1_score": None,
             "purity": None,
-            "used_qwen": True,
+            "used_qwen": used_qwen,
             "qwen_word": qwen_word,
             "voted_name": None,
             "voted_cid": None,
+            "is_unknown": is_unknown,
             "sims": sims.tolist(),
             "ids": ids.tolist(),
         }
-
     # 2) Top1 的相似度（只用分数，不用它的类别）
     top1_score, _ = valid[0]
 
@@ -166,7 +196,11 @@ def classify_crop(crop_path: str, ctx, topk: int = 5, thresh: float = 0.80):
         str(voted_cid)
     )
     purity = voted_cnt / len(valid)  # 票王在 Top-K 中的占比
-
+    final_class = voted_name
+    final_cid = voted_cid
+    qwen_word = None
+    used_qwen = False
+    is_unknown = False
     # 4) 置信判定：
     #    只要 (Top1 相似度 < 阈值) 或 (票王占比 < 1/2)，就认为不可靠 → Ask Qwen
     if top1_score < thresh or purity < 0.5:
@@ -174,14 +208,21 @@ def classify_crop(crop_path: str, ctx, topk: int = 5, thresh: float = 0.80):
             qwen_word = detect_object(crop_path)
         except Exception as e:
             qwen_word = f"Qwen_error:{e}"
-        final_class = voted_name   # 也可以改成用 qwen_word，看你实验怎么设计
-        final_cid = voted_cid
+        
         used_qwen = True
-    else:
-        final_class = voted_name
-        final_cid = voted_cid
-        qwen_word = None
-        used_qwen = False
+        if qwen_word is not None and not str(qwen_word).startswith("Qwen_error"):
+            qkey = qwen_word.strip().lower()
+            if qkey in known_names:
+                     for m in mapping:
+                        if m["class_name"].strip().lower() == qkey:
+                            final_cid = m["cid"]
+                            final_class = qwen_word
+                            is_unknown = False
+                            break
+            else:
+                final_cid = 99
+                is_unknown = True
+                final_class = qwen_word
 
     return {
         "final_class": final_class,
@@ -192,6 +233,7 @@ def classify_crop(crop_path: str, ctx, topk: int = 5, thresh: float = 0.80):
         "qwen_word": qwen_word,
         "voted_name": voted_name,
         "voted_cid": voted_cid,
+        "is_unknown": is_unknown,  
         "sims": sims.tolist(),
         "ids": ids.tolist(),
     }

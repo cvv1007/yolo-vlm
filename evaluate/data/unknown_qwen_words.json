@@ -1,0 +1,2797 @@
+[
+  {
+    "qwen_word": "person",
+    "count": 1532,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "van",
+    "count": 452,
+    "match_cid": 4
+  },
+  {
+    "qwen_word": "light",
+    "count": 329,
+    "match_cid": 26
+  },
+  {
+    "qwen_word": "cone",
+    "count": 300,
+    "match_cid": 24
+  },
+  {
+    "qwen_word": "tree",
+    "count": 287,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "man",
+    "count": 219,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "traffic cone",
+    "count": 218,
+    "match_cid": 24
+  },
+  {
+    "qwen_word": "sign",
+    "count": 213,
+    "match_cid": 27
+  },
+  {
+    "qwen_word": "excavator",
+    "count": 205,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "chair",
+    "count": 202,
+    "match_cid": 33
+  },
+  {
+    "qwen_word": "book",
+    "count": 201,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "crane",
+    "count": 175,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "bottle",
+    "count": 158,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "box",
+    "count": 133,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "face",
+    "count": 132,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "scooter",
+    "count": 130,
+    "match_cid": 10
+  },
+  {
+    "qwen_word": "cat",
+    "count": 113,
+    "match_cid": 18
+  },
+  {
+    "qwen_word": "tractor",
+    "count": 111,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "train",
+    "count": 105,
+    "match_cid": 5
+  },
+  {
+    "qwen_word": "bag",
+    "count": 87,
+    "match_cid": 40
+  },
+  {
+    "qwen_word": "suv",
+    "count": 84,
+    "match_cid": 3
+  },
+  {
+    "qwen_word": "flag",
+    "count": 73,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fence",
+    "count": 68,
+    "match_cid": 19
+  },
+  {
+    "qwen_word": "mixer",
+    "count": 66,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "forklift",
+    "count": 63,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "bird",
+    "count": 62,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lighthouse",
+    "count": 61,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "hat",
+    "count": 57,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cement mixer",
+    "count": 53,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "taxi",
+    "count": 53,
+    "match_cid": 3
+  },
+  {
+    "qwen_word": "helmet",
+    "count": 51,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ball",
+    "count": 51,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "vehicle",
+    "count": 51,
+    "match_cid": 3
+  },
+  {
+    "qwen_word": "boat",
+    "count": 48,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "candle",
+    "count": 41,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "road sign",
+    "count": 39,
+    "match_cid": 21
+  },
+  {
+    "qwen_word": "plant",
+    "count": 36,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "traffic sign",
+    "count": 36,
+    "match_cid": 27
+  },
+  {
+    "qwen_word": "bike",
+    "count": 34,
+    "match_cid": 8
+  },
+  {
+    "qwen_word": "backpack",
+    "count": 34,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bin",
+    "count": 33,
+    "match_cid": 30
+  },
+  {
+    "qwen_word": "umbrella",
+    "count": 33,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "flower",
+    "count": 30,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cabinet",
+    "count": 29,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fish",
+    "count": 29,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "barrel",
+    "count": 27,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "statue",
+    "count": 27,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "door",
+    "count": 27,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cup",
+    "count": 26,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lamp",
+    "count": 25,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pole",
+    "count": 25,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "guitar",
+    "count": 25,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "gate",
+    "count": 24,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "worker",
+    "count": 24,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "road roller",
+    "count": 23,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "machine",
+    "count": 22,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "traffic light",
+    "count": 22,
+    "match_cid": 26
+  },
+  {
+    "qwen_word": "laptop",
+    "count": 21,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cement truck",
+    "count": 21,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "concrete mixer truck",
+    "count": 20,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "wheel",
+    "count": 19,
+    "match_cid": 42
+  },
+  {
+    "qwen_word": "tank",
+    "count": 18,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "vest",
+    "count": 18,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ladder",
+    "count": 17,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "can",
+    "count": 17,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "coat",
+    "count": 17,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tower",
+    "count": 17,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bulldozer",
+    "count": 17,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "boot",
+    "count": 16,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "trailer",
+    "count": 16,
+    "match_cid": 4
+  },
+  {
+    "qwen_word": "building",
+    "count": 16,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rock",
+    "count": 16,
+    "match_cid": 41
+  },
+  {
+    "qwen_word": "firefighter",
+    "count": 15,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "trash can",
+    "count": 15,
+    "match_cid": 38
+  },
+  {
+    "qwen_word": "basket",
+    "count": 15,
+    "match_cid": 35
+  },
+  {
+    "qwen_word": "rv",
+    "count": 15,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "window",
+    "count": 14,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "container",
+    "count": 14,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tanker",
+    "count": 14,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cones",
+    "count": 14,
+    "match_cid": 24
+  },
+  {
+    "qwen_word": "horse",
+    "count": 13,
+    "match_cid": 17
+  },
+  {
+    "qwen_word": "spool",
+    "count": 13,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dolphin",
+    "count": 13,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tire",
+    "count": 13,
+    "match_cid": 42
+  },
+  {
+    "qwen_word": "phone",
+    "count": 13,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lantern",
+    "count": 13,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "house",
+    "count": 13,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "stool",
+    "count": 12,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "woman",
+    "count": 12,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "dinosaur",
+    "count": 12,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "concrete mixer",
+    "count": 12,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "wall",
+    "count": 12,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "table",
+    "count": 11,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "jacket",
+    "count": 11,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "roller",
+    "count": 11,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "block",
+    "count": 11,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tent",
+    "count": 11,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shovel",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "text",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "camera",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shoe",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dirt",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "post",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "balloon",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "concrete pump truck",
+    "count": 10,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "vase",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cable",
+    "count": 10,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bed",
+    "count": 9,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "child",
+    "count": 9,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tanker truck",
+    "count": 9,
+    "match_cid": 4
+  },
+  {
+    "qwen_word": "butterfly",
+    "count": 9,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "hand",
+    "count": 9,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "glove",
+    "count": 9,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dump truck",
+    "count": 9,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "parking sign",
+    "count": 8,
+    "match_cid": 27
+  },
+  {
+    "qwen_word": "pipe",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "clock",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cloud",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "handbag",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "boxes",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "concrete",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "warning sign",
+    "count": 8,
+    "match_cid": 21
+  },
+  {
+    "qwen_word": "letter",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "road",
+    "count": 8,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "apple",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bench",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "wheelchair",
+    "count": 7,
+    "match_cid": 12
+  },
+  {
+    "qwen_word": "barricade",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cable reel",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pen",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "star",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bucket",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cross",
+    "count": 7,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "couch",
+    "count": 6,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "button",
+    "count": 6,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "blurred",
+    "count": 6,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "head",
+    "count": 6,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "parking",
+    "count": 6,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "wood",
+    "count": 6,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sun",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lens",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tool",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tarp",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fan",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "blur",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fire extinguisher",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "desk",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "heart",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "mask",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "electric bike",
+    "count": 5,
+    "match_cid": 8
+  },
+  {
+    "qwen_word": "bags",
+    "count": 5,
+    "match_cid": 40
+  },
+  {
+    "qwen_word": "fire",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "screen",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ambulance",
+    "count": 5,
+    "match_cid": 3
+  },
+  {
+    "qwen_word": "cane",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "mirror",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "road construction sign",
+    "count": 5,
+    "match_cid": 21
+  },
+  {
+    "qwen_word": "bridge",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "glass",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rider",
+    "count": 5,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "robot",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "electric scooter",
+    "count": 4,
+    "match_cid": 10
+  },
+  {
+    "qwen_word": "unknown",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "garden",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "candy",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ship",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "loader",
+    "count": 4,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "police officer",
+    "count": 4,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "broom",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sailboat",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "trolley",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "trash",
+    "count": 4,
+    "match_cid": 38
+  },
+  {
+    "qwen_word": "lightbulb",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "monitor",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "computer",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bear",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "barriers",
+    "count": 4,
+    "match_cid": 19
+  },
+  {
+    "qwen_word": "fire hydrant",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fire truck",
+    "count": 4,
+    "match_cid": 4
+  },
+  {
+    "qwen_word": "toilet",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "wheelbarrow",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "board",
+    "count": 4,
+    "match_cid": 36
+  },
+  {
+    "qwen_word": "boots",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pillar",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "mixer truck",
+    "count": 4,
+    "match_cid": 15
+  },
+  {
+    "qwen_word": "buoy",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fireman",
+    "count": 4,
+    "match_cid": 1
+  },
+  {
+    "qwen_word": "jeep",
+    "count": 4,
+    "match_cid": 3
+  },
+  {
+    "qwen_word": "sprayer",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cloth",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sand",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "suitcase",
+    "count": 4,
+    "match_cid": 29
+  },
+  {
+    "qwen_word": "airplane",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bowl",
+    "count": 4,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "uniform",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shadow",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "banner",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cannon",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dress",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "card",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dumbbell",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "gates",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "food truck",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "snake",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "arrow",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pillow",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "snow",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "generator",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "key",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "monument",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "garbage truck",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tripod",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bat",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "police car",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "delivery man",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "speaker",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "drum",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "banana",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sail",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rose",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cardboard",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "stop sign",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "towel",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "delivery truck",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "stand",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "blanket",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "trophy",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "gun",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "radiator",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "smiley face",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "triangle",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "moon",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sculpture",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "curtain",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "hedge",
+    "count": 3,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bath",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "side mirror",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "milk",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "plane",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "drill",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shark",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "turtle",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rocket",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tank truck",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cylinder",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pot",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bar",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cage",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "挖掘机",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dolly",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shirt",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "warning",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shoes",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "e-bike",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "traffic officer",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bell",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "blocks",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "trike",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "speed limit sign",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rubble",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "leaf",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "robe",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lotion",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "number",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "television",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lamb",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sword",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "panda",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "plastic",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bug",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sprinkler",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "refrigerator",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cap",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "crate",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "scissor lift",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "signage",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "trash bin",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "elephant",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "paper",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cans",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "delivery bike",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pump",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "golf cart",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "gown",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "billboard",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "wave",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dust",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bottles",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "toothpaste",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "knife",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shield",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "duck",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "butter",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cement mixer truck",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "planter",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ear",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "map",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "eye",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lemon",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "basketball hoop",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "mug",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pants",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "path",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "air conditioner",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "log",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "clapper",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lampshade",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "package",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "trashcan",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "booth",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "money",
+    "count": 2,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tube",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cement",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "stick",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "camouflage",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tractors",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tape",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "beef",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dirt bike",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "railing",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "phone booth",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cloak",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "gravestone",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bomb",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pallet",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "giraffe",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pyramid",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "control panel",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "handrail",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pocket",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "碾压机",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "officer",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "unanswerable",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "snowblower",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lightning",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dolls",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ribbon",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dice",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "chip",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "three",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bump stop",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "mattress",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "flute",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "column",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "jack",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "megaphone",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tank car",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "barric",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "noise maker",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bee",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "green",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "square",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "mold",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "no entry",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rod",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "digging",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "beehive",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "brain",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "qr code",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bale",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "toddler",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "battery",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "wrecker",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lighter",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "drilling rig",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "car wash",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bush",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "roofing",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "beer",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "globe",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "grinder",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pump truck",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fly",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "eraser",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tile",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "r",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "beach",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "solar wheel",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "monkey",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "seashell",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "plastic bag",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dancer",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "safety sign",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "watermelon",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ram",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "gymn",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fruit",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pepper",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "conical hat",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "puffer jacket",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "reflector",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "delivery person",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "seal",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cigar",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lift",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "animal",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "telephone pole",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "keyboard",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dumpster",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tray",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "baby carrier",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "car carrier",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "snack",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "foot",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sink",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "polar bear",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sock",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "toy",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "hand truck",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "spoon",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "safety fence",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "conical",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "jar",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "scaffold",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "girl",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "barberpole",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bins",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "food stall",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "zoo",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "delivery",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "10",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "screwdriver",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cabbage",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sunbeam",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "mountain",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "torch",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cough syrup",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "delta",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "snowman",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sunglasses",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cake",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ice",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "boulder",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "people",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "train car",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "deer",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "stripe",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "water",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "7",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pavement",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "walker",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "2",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "calendar",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "step",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "highlighter",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cassette",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pig",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "5",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "receipt",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "toilet paper roll",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "toilet paper",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lamp post",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "sack",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "switch",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "roadwork",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "surveyor",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "military",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tallman",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "baseball glove",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "life jacket",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "plates",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "staircase",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "chocolate",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cistern",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "piano",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "paw",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pickup truck",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cucumber",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "vegetable",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "food cart",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lanyard",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tow truck",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rifle",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "floor",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ant",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "doll",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "coal",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "barn",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lights",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "deliveryman",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tooth",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "candle holder",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "no left turn",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tote bag",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "packet",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "flashlight",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "thread",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "crown",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "luggage",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "steam locomotive",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "planks",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shaker",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "minion",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "turbine",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "goblet",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "crab",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "rug",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "buzzer",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pixel",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bolt",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "chicken",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "concrete pump",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "wheel cover",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "tie",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ticket machine",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "conch",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "警员",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "envelope",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "a-frame",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "frisbee",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "obelisk",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "toy car",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pickle",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lollipop",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "grain",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "meter",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "barber",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "remote",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "crystal",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dancing",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "1",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "spray bottle",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "5g",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "headphone",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "pizza",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lily",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "seagull",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "submarine",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "paver",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "nebula",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "skid steer",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "store",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "bowtie",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "microphone",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "label",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "护栏",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "brake pedal",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "net",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "roll",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "logo",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "combine harvester",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "coin",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "device",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "scarf",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "skateboard",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "shrimp",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "socks",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "dollar",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "exit",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "lion",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "small building",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "搅拌车",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "seat",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "cracked glass",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "fox",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "hula hoop",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "plastic bags",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "ghost",
+    "count": 1,
+    "match_cid": null
+  },
+  {
+    "qwen_word": "drill rig",
+    "count": 1,
+    "match_cid": null
+  }
+]

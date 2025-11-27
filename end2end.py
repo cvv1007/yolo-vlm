@@ -16,7 +16,7 @@ def main():
     )
     ap.add_argument(
         "--crop_out",
-        default="/Users/yxr/Desktop/AI7102/YOLOpractice/output/coda_tunned_yolo",
+        default="/Users/yxr/Desktop/AI7102/YOLOpractice/output/submmision_tunned_140_11m",
         help="YOLO 裁剪输出根目录",
     )
     ap.add_argument(
@@ -28,7 +28,7 @@ def main():
     ap.add_argument("--thresh", type=float, default=0.8)
     ap.add_argument(
         "--save_dir",
-        default="submission_origin_yolo",
+        default="submmision_tunned_140_11m",
         help="COCO detection 结果保存目录（用于 eval 脚本），会生成多个 part json",
     )
     ap.add_argument(
@@ -45,7 +45,7 @@ def main():
     print(f"[PIPE] 共找到 {len(images)} 张 test 图片")
 
     # 1) 初始化 YOLO 和 retrieval（只初始化一次）
-    yolo_model = load_yolo("yolov8x.pt") #yolov8x.p改成best.pt 以及yolo11m试一下
+    yolo_model = load_yolo("weights/best_e140yolo11m.pt") #yolov8x.p改成best.pt 以及yolo11m试一下
     ctx = load_retrieval(args.index_dir)
 
     save_dir = Path(args.save_dir)

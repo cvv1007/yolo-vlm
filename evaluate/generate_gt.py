@@ -10,6 +10,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_COMMON  = DATA_DIR/ "gt_common.json"
 OUT_AGNOSTIC = DATA_DIR/ "gt_agnostic.json"
 OUT_CORNER  = DATA_DIR / "gt_agnostic_corner.json"
+OUT_CORNER_CAT = DATA_DIR / "gt_corner_cat.json"
 def add_area_iscrowd(ann):
     ann = deepcopy(ann)
     if "iscrowd" not in ann:
@@ -91,6 +92,27 @@ def main():
     with open(OUT_CORNER, "w", encoding="utf-8") as f:
         json.dump(corner_gt, f)
     print(f"[CORNER] write {OUT_CORNER}, anns = {len(corner_anns)}")
+
+    corner_cat_anns = []
+    for ann in annotations:
+        if ann.get("corner_case", False):
+            new_ann = add_area_iscrowd(ann)  # 补全 area / iscrowd
+            # 不改 category_id，保留原来的类别信息
+            corner_cat_anns.append(new_ann)
+
+    # 只保留这些 corner anns 用到的类别（更干净一些），如果你想保留所有原始categories，也可以直接用 categories
+    used_cat_ids = {a["category_id"] for a in corner_cat_anns}
+    corner_cat_cats = [c for c in categories if c["id"] in used_cat_ids]
+
+    corner_cat_gt = {
+        "images": images,
+        "categories": corner_cat_cats,
+        "annotations": corner_cat_anns,
+    }
+
+    with open(OUT_CORNER_CAT, "w", encoding="utf-8") as f:
+        json.dump(corner_cat_gt, f)
+    print(f"[CORNER_CAT] write {OUT_CORNER_CAT}, anns = {len(corner_cat_anns)}, cats = {len(corner_cat_cats)}")
 
 
 if __name__ == "__main__":

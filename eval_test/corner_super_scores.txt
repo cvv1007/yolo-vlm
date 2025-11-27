@@ -1,0 +1,11 @@
+det_recall=0.7777640595098463
+super_acc=0.7980792126359235
+
+per_super:
+animal: {'total_gt': 336, 'matched_gt': 289, 'super_correct': 185, 'det_recall': 0.8601190476190477, 'super_acc': 0.6401384083044983}
+cyclist: {'total_gt': 137, 'matched_gt': 103, 'super_correct': 4, 'det_recall': 0.7518248175182481, 'super_acc': 0.038834951456310676}
+misc: {'total_gt': 740, 'matched_gt': 576, 'super_correct': 406, 'det_recall': 0.7783783783783784, 'super_acc': 0.7048611111111112}
+obstruction: {'total_gt': 859, 'matched_gt': 399, 'super_correct': 159, 'det_recall': 0.46449359720605354, 'super_acc': 0.39849624060150374}
+pedestrian: {'total_gt': 539, 'matched_gt': 316, 'super_correct': 221, 'det_recall': 0.5862708719851577, 'super_acc': 0.6993670886075949}
+traffic_facility: {'total_gt': 8148, 'matched_gt': 6209, 'super_correct': 4679, 'det_recall': 0.7620274914089347, 'super_acc': 0.7535835078112417}
+vehicle: {'total_gt': 5440, 'matched_gt': 4707, 'super_correct': 4401, 'det_recall': 0.8652573529411764, 'super_acc': 0.9349904397705545}
